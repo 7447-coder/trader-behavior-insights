@@ -85,8 +85,7 @@ Understanding these patterns can help design sentiment-aware trading strategies 
 
 ---
 
-**Author:** Sakshi Deshmukh  
-**Role Applied:** Junior Data Scientist – Trader Behavior Insights
+
 
 ## Dataset Note
 
