@@ -88,3 +88,11 @@ Understanding these patterns can help design sentiment-aware trading strategies 
 **Author:** Sakshi Deshmukh  
 **Role Applied:** Junior Data Scientist – Trader Behavior Insights
 
+## Dataset Note
+
+The original historical trader dataset is large (>100MB) and exceeds GitHub’s file size limit.
+For this repository, a representative sample (`historical_data_sample.csv`) is included.
+
+The full dataset was used locally for analysis and can be provided upon request.
+
+
